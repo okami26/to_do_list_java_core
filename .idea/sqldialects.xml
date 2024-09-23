@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c893a697-3cda-4e1e-9cec-06ba84674ca8/console.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/init.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/init.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
