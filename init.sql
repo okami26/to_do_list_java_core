@@ -1,8 +1,8 @@
-CREATE Database IF NOT EXISTS todolist;
-USE todolist;
+CREATE Database todolist;
+
 
 CREATE TABLE notes(
-                                    id int AUTO_INCREMENT PRIMARY KEY,
+                                    id SERIAL,
                                     name varchar(50),
                                     note text
 );
